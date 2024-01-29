@@ -33,7 +33,6 @@ nbformat==5.7.0
 nest-asyncio==1.5.8
 networkx==3.2
 numpy==1.26.1
-open3d==0.17.0
 packaging==23.2
 pandas==2.1.1
 Pillow==10.1.0
